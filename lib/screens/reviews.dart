@@ -10,7 +10,7 @@ class Reviews extends StatelessWidget {
       children: [
       Review(
       pathProfile: 'assets/img/profile.jpg',
-      user: 'Filomena Acomedida',
+      user: 'Fermina Daza',
       details: '1 review, 5 photos',
       comments:'This is an amazing place in Sri Lanka'),
       Review( 
@@ -25,7 +25,7 @@ class Reviews extends StatelessWidget {
       comments:'In this wonderful place I felt so good'),
       Review(
       pathProfile: 'assets/img/profile3.jpg',
-      user: 'Anastacia Korvich',
+      user: 'Miroslava Korvich',
       details: '10 review, 50 photos',
       comments:'Ohh God!. I loved Sri Lanka'
       ),
